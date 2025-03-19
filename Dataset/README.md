@@ -1,6 +1,6 @@
 # Credit Card Customers Dataset
 
-Dataset **Credit Card Customers** dari Kaggle berisi informasi mengenai perilaku dan karakteristik pelanggan kartu kredit. Dataset ini tergoong ke dalam bisnis perbankan. Dataset ini memiliki jumlah record 10.000 pelanggan dan 23 fitur atau kolom. 
+Dataset **Credit Card Customers** berisi informasi mengenai perilaku dan karakteristik pelanggan kartu kredit. Dataset ini tergolong dalam bisnis perbankan. Dataset ini memiliki jumlah record sebanyak 10.000 pelanggan dan 23 fitur atau kolom. 
 Sumber dataset diunduh dari kaggle pada link berikut : https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers?resource=download 
 
 ## **Struktur Data (Skema dan Format)**  
